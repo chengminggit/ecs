@@ -420,5 +420,8 @@
 6.  如果出现以下页面，说明连接MySQL成功。
 
     ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/9778/154779049533719_zh-CN.png)
+    
+    
+    123
 
 
